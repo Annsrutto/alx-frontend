@@ -7,7 +7,7 @@ body {
     font-family: var(--font-family-base);
 }
 
-.section-header {
+a.section-header {
     font-family: var(--font-family-title);
 }
 
