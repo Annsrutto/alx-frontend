@@ -157,7 +157,7 @@ a:active {
     color: var(--nav-item-link-hover);
 }
 
-.row, ul {
+.row ul {
     margin: 0;
     padding: 0;
     list-style: none;
@@ -185,6 +185,6 @@ a:active {
     padding: var(--footer-padding);
 }
 
-.footer, ul {
+.footer ul {
     text-align: right;
 }
